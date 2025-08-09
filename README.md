@@ -11,3 +11,7 @@ I enjoyed implementing the swapping logic that lets the program sort the list pr
 ## What would you add next if you had more time?
 
 I would add user input functionality so anyone can enter their own list of items to be sorted. I might also explore other sorting algorithms like Selection Sort or Quick Sort.
+
+## Screenshot
+
+![Bubble Sort Output](sorting.png)
